@@ -27,3 +27,4 @@ cash.me
 eobot.com
 block.io
 openfolio.com
+vimeo.com
