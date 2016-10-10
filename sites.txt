@@ -48,3 +48,5 @@ leaseweb.com
 mapbox.com
 munzee.com
 moneybirdstorage.com
+lahitapiola.fi
+tapiola.fi
