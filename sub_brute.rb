@@ -140,22 +140,15 @@ def createURI(getURI)
   end
 end
 
+def newSite(getURI)
+  getURI = gets.chomp
+  puts("sites "+getURI)  
+  createURI getURI
+end
 
-
-File.open("output.txt", "w")
 system "clear"
-puts "Enter a domain you'd like to brute force and look for hostile subdomain takeover(example: hackme.ltd)"
-getURI = gets.chomp
-createURI getURI
-
-puts "\n\n\n\n\n[#{Time.now.asctime}] Starting to bruteforce the subdomains using the same wordlist"
-File.open("output.txt", "r").each do |ff|
-  File.open("list.txt", "r").each do |f|
-    ff.each_line do |domain|
-    f.each_line do |line|
-      targetURI = line.chomp + "." + domain.chomp
-      find_subs targetURI
-      end
-    end
+File.open("sites.txt", "r") do |ff|
+  ff.each_line do |lline|
+    newSite lline
   end
 end
