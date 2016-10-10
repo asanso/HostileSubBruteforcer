@@ -2,3 +2,7 @@ lyst.com
 lyst.co.uk
 lyst.com.au
 lyst.ca
+socrata.com
+jet.com
+indeed.com
+Volusion.com
