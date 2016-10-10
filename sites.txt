@@ -5,3 +5,5 @@ yelp-support.com
 boozt.com
 booztx.com
 booztlet.com
+legalrobot.com
+legalrobot-uat.com
