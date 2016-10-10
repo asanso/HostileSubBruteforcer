@@ -20,3 +20,4 @@ wepayapi.com
 gdax.com
 coinbase.com
 wp-api.org
+sucuri.net
