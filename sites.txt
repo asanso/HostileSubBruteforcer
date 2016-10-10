@@ -11,4 +11,3 @@ skyliner.io
 instacart.com
 powerdns.com
 go.cd
-invisionapp.com
