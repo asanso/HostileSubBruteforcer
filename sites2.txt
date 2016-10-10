@@ -8,3 +8,4 @@ indeed.com
 simple.com
 simplify.com
 priceless.com
+magento.com
