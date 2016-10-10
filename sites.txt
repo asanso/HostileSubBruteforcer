@@ -25,3 +25,4 @@ squareup.com
 square.com
 cash.me
 eobot.com
+block.io
