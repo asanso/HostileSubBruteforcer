@@ -39,3 +39,5 @@ gratipay.com
 grtp.co
 robinhood.com
 binary.com
+algolia.net
+algolianet.com
