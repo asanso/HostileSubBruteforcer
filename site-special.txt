@@ -8,3 +8,4 @@ hackpad.com
 owncloud.org
 owncloud.help
 owncloud.com
+moneybird.com
