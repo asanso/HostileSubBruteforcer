@@ -38,6 +38,3 @@ zopim.com
 gratipay.com
 grtp.co
 robinhood.com
-owncloud.org
-owncloud.help
-owncloud.com
