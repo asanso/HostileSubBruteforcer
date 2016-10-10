@@ -43,3 +43,4 @@ algolia.net
 algolianet.com
 toytalk.com
 zomato
+cylance.com
