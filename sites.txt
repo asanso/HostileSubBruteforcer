@@ -21,3 +21,6 @@ gdax.com
 coinbase.com
 wp-api.org
 sucuri.net
+squareup.com
+square.com
+cash.me
