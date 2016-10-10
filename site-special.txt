@@ -5,3 +5,6 @@ greenhouse.io
 udemy.com
 flox.io
 hackpad.com
+owncloud.org
+owncloud.help
+owncloud.com
