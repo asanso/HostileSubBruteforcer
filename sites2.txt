@@ -6,3 +6,4 @@ socrata.com
 jet.com
 indeed.com
 simple.com
+simplify.com
