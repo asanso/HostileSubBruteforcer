@@ -2,3 +2,6 @@ yelp.com
 yelpreservations.com
 yelpblog.com
 yelp-support.com
+boozt.com
+booztx.com
+booztlet.com
