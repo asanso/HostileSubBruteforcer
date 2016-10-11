@@ -1,8 +1,3 @@
-mapbox.com
-munzee.com
-moneybirdstorage.com
-lahitapiola.fi
-tapiola.fi
 bimeanalytics.com
 secnews.gr
 nextcloud.com
