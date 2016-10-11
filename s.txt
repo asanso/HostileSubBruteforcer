@@ -1,3 +1,8 @@
-bimeanalytics.com
-secnews.gr
-nextcloud.com
+socrata.com
+jet.com
+indeed.com
+simple.com
+simplify.com
+priceless.com
+magento.com
+revelup.com
